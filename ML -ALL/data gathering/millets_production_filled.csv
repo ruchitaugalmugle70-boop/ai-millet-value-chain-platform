@@ -1,0 +1,248 @@
+Identifiers,,,Area Features,,,Production Features,,
+Year,State,Crop,"Area Sown
+Current (ha)","Area Sown
+Last Year (ha)","Area Growth
+Rate (%)","Production
+Last Year (tons)","Production
+2yr Back (tons)","Production
+Growth Rate (%)"
+2018,Andhra Pradesh,Bajra (Pearl Millet),210000,197000,6.6,162320,232140,-30.08
+2019,Andhra Pradesh,Bajra (Pearl Millet),223000,210000,6.19,92500,162320,-43.01
+2020,Andhra Pradesh,Bajra (Pearl Millet),236000,223000,5.83,22680,92500,-75.48
+2021,Andhra Pradesh,Bajra (Pearl Millet),206000,236000,-12.71,58200,22680,156.61
+2022,Andhra Pradesh,Bajra (Pearl Millet),152000,206000,-26.21,70710,58200,21.49
+2018,Gujarat,Bajra (Pearl Millet),464670,448970,3.5,1036620,1108530,-6.49
+2019,Gujarat,Bajra (Pearl Millet),480370,464670,3.38,964710,1036620,-6.94
+2020,Gujarat,Bajra (Pearl Millet),496070,480370,3.27,892800,964710,-7.45
+2021,Gujarat,Bajra (Pearl Millet),520260,496070,4.88,913150,892800,2.28
+2022,Gujarat,Bajra (Pearl Millet),510480,520260,-1.88,1008890,913150,10.48
+2018,Haryana,Bajra (Pearl Millet),407300,349600,16.5,563520,406140,38.75
+2019,Haryana,Bajra (Pearl Millet),465000,407300,14.17,720900,563520,27.93
+2020,Haryana,Bajra (Pearl Millet),522700,465000,12.41,878280,720900,21.83
+2021,Haryana,Bajra (Pearl Millet),600480,522700,14.88,1019110,878280,16.03
+2022,Haryana,Bajra (Pearl Millet),506490,600480,-15.65,1350140,1019110,32.48
+2018,Karnataka,Bajra (Pearl Millet),1508820,1343930,12.27,397000,507310,-21.74
+2019,Karnataka,Bajra (Pearl Millet),1673710,1508820,10.93,286690,397000,-27.79
+2020,Karnataka,Bajra (Pearl Millet),1838600,1673710,9.85,176380,286690,-38.48
+2021,Karnataka,Bajra (Pearl Millet),1783000,1838600,-3.02,367080,176380,108.12
+2022,Karnataka,Bajra (Pearl Millet),1638000,1783000,-8.13,275500,367080,-24.95
+2018,Madhya Pradesh,Bajra (Pearl Millet),494110,497220,-0.63,881830,1008660,-12.57
+2019,Madhya Pradesh,Bajra (Pearl Millet),491000,494110,-0.63,755000,881830,-14.38
+2020,Madhya Pradesh,Bajra (Pearl Millet),487890,491000,-0.63,628170,755000,-16.8
+2021,Madhya Pradesh,Bajra (Pearl Millet),517000,487890,5.97,656580,628170,4.52
+2022,Madhya Pradesh,Bajra (Pearl Millet),555000,517000,7.35,737710,656580,12.36
+2018,Maharashtra,Bajra (Pearl Millet),1649640,931180,77.16,1005790,1342570,-25.08
+2019,Maharashtra,Bajra (Pearl Millet),2368100,1649640,43.55,669010,1005790,-33.48
+2020,Maharashtra,Bajra (Pearl Millet),3086560,2368100,30.34,332230,669010,-50.34
+2021,Maharashtra,Bajra (Pearl Millet),2885000,3086560,-6.53,511990,332230,54.11
+2022,Maharashtra,Bajra (Pearl Millet),2456900,2885000,-14.84,656560,511990,28.24
+2018,Rajasthan,Bajra (Pearl Millet),4569910,4384800,4.22,3698540,3643730,1.5
+2019,Rajasthan,Bajra (Pearl Millet),4755020,4569910,4.05,3753350,3698540,1.48
+2020,Rajasthan,Bajra (Pearl Millet),4940130,4755020,3.89,3808160,3753350,1.46
+2021,Rajasthan,Bajra (Pearl Millet),4914590,4940130,-0.52,4685880,3808160,23.05
+2022,Rajasthan,Bajra (Pearl Millet),4362780,4914590,-11.23,4561470,4685880,-2.65
+2018,Tamil Nadu,Bajra (Pearl Millet),439280,344980,27.33,169040,194560,-13.12
+2019,Tamil Nadu,Bajra (Pearl Millet),533580,439280,21.47,143520,169040,-15.1
+2020,Tamil Nadu,Bajra (Pearl Millet),627880,533580,17.67,118000,143520,-17.78
+2021,Tamil Nadu,Bajra (Pearl Millet),580220,627880,-7.59,185130,118000,56.89
+2022,Tamil Nadu,Bajra (Pearl Millet),554610,580220,-4.41,158890,185130,-14.17
+2018,Telangana,Bajra (Pearl Millet),30000,100,29900,15040,20570,-26.88
+2019,Telangana,Bajra (Pearl Millet),65000,30000,116.67,9510,15040,-36.77
+2020,Telangana,Bajra (Pearl Millet),100000,65000,53.85,3980,9510,-58.15
+2021,Telangana,Bajra (Pearl Millet),102000,100000,2,10420,3980,161.81
+2022,Telangana,Bajra (Pearl Millet),74000,102000,-27.45,9300,10420,-10.75
+2018,Uttar Pradesh,Bajra (Pearl Millet),967000,904000,6.97,1809570,1824640,-0.83
+2019,Uttar Pradesh,Bajra (Pearl Millet),1030000,967000,6.51,1794500,1809570,-0.83
+2020,Uttar Pradesh,Bajra (Pearl Millet),1093000,1030000,6.12,1779430,1794500,-0.84
+2021,Uttar Pradesh,Bajra (Pearl Millet),1093000,1093000,0,1939460,1779430,8.99
+2022,Uttar Pradesh,Bajra (Pearl Millet),1083000,1093000,-0.91,2014450,1939460,3.87
+2018,Andhra Pradesh,Jowar (Sorghum),210000,197000,6.6,370870,441260,-15.95
+2019,Andhra Pradesh,Jowar (Sorghum),223000,210000,6.19,300480,370870,-18.98
+2020,Andhra Pradesh,Jowar (Sorghum),236000,223000,5.83,230090,300480,-23.43
+2021,Andhra Pradesh,Jowar (Sorghum),206000,236000,-12.71,389110,230090,69.11
+2022,Andhra Pradesh,Jowar (Sorghum),152000,206000,-26.21,411390,389110,5.73
+2018,Gujarat,Jowar (Sorghum),464670,448970,3.5,153610,182180,-15.68
+2019,Gujarat,Jowar (Sorghum),480370,464670,3.38,125040,153610,-18.6
+2020,Gujarat,Jowar (Sorghum),496070,480370,3.27,96470,125040,-22.85
+2021,Gujarat,Jowar (Sorghum),520260,496070,4.88,67160,96470,-30.38
+2022,Gujarat,Jowar (Sorghum),510480,520260,-1.88,57430,67160,-14.49
+2018,Haryana,Jowar (Sorghum),407300,349600,16.5,28540,32170,-11.28
+2019,Haryana,Jowar (Sorghum),465000,407300,14.17,24910,28540,-12.72
+2020,Haryana,Jowar (Sorghum),522700,465000,12.41,21280,24910,-14.57
+2021,Haryana,Jowar (Sorghum),600480,522700,14.88,15790,21280,-25.8
+2022,Haryana,Jowar (Sorghum),506490,600480,-15.65,16420,15790,3.99
+2018,Karnataka,Jowar (Sorghum),1508820,1343930,12.27,1388970,1637610,-15.18
+2019,Karnataka,Jowar (Sorghum),1673710,1508820,10.93,1140330,1388970,-17.9
+2020,Karnataka,Jowar (Sorghum),1838600,1673710,9.85,891690,1140330,-21.8
+2021,Karnataka,Jowar (Sorghum),1783000,1838600,-3.02,986980,891690,10.69
+2022,Karnataka,Jowar (Sorghum),1638000,1783000,-8.13,903530,986980,-8.46
+2018,Madhya Pradesh,Jowar (Sorghum),494110,497220,-0.63,976060,1382000,-29.37
+2019,Madhya Pradesh,Jowar (Sorghum),491000,494110,-0.63,570120,976060,-41.59
+2020,Madhya Pradesh,Jowar (Sorghum),487890,491000,-0.63,164180,570120,-71.2
+2021,Madhya Pradesh,Jowar (Sorghum),517000,487890,5.97,165130,164180,0.58
+2022,Madhya Pradesh,Jowar (Sorghum),555000,517000,7.35,217000,165130,31.41
+2018,Maharashtra,Jowar (Sorghum),1649640,931180,77.16,2340900,3075110,-23.88
+2019,Maharashtra,Jowar (Sorghum),2368100,1649640,43.55,1606690,2340900,-31.36
+2020,Maharashtra,Jowar (Sorghum),3086560,2368100,30.34,872480,1606690,-45.7
+2021,Maharashtra,Jowar (Sorghum),2885000,3086560,-6.53,1807510,872480,107.17
+2022,Maharashtra,Jowar (Sorghum),2456900,2885000,-14.84,1746610,1807510,-3.37
+2018,Rajasthan,Jowar (Sorghum),4569910,4384800,4.22,132130,100,132030
+2019,Rajasthan,Jowar (Sorghum),4755020,4569910,4.05,300850,132130,127.69
+2020,Rajasthan,Jowar (Sorghum),4940130,4755020,3.89,469570,300850,56.08
+2021,Rajasthan,Jowar (Sorghum),4914590,4940130,-0.52,455770,469570,-2.94
+2022,Rajasthan,Jowar (Sorghum),4362780,4914590,-11.23,589910,455770,29.43
+2018,Tamil Nadu,Jowar (Sorghum),439280,344980,27.33,396700,362810,9.34
+2019,Tamil Nadu,Jowar (Sorghum),533580,439280,21.47,430590,396700,8.54
+2020,Tamil Nadu,Jowar (Sorghum),627880,533580,17.67,464480,430590,7.87
+2021,Tamil Nadu,Jowar (Sorghum),580220,627880,-7.59,520070,464480,11.97
+2022,Tamil Nadu,Jowar (Sorghum),554610,580220,-4.41,427220,520070,-17.85
+2018,Telangana,Jowar (Sorghum),30000,100,29900,78740,84460,-6.77
+2019,Telangana,Jowar (Sorghum),65000,30000,116.67,73020,78740,-7.26
+2020,Telangana,Jowar (Sorghum),100000,65000,53.85,67300,73020,-7.83
+2021,Telangana,Jowar (Sorghum),102000,100000,2,123860,67300,84.04
+2022,Telangana,Jowar (Sorghum),74000,102000,-27.45,155690,123860,25.7
+2018,Uttar Pradesh,Jowar (Sorghum),967000,904000,6.97,245950,277270,-11.3
+2019,Uttar Pradesh,Jowar (Sorghum),1030000,967000,6.51,214630,245950,-12.73
+2020,Uttar Pradesh,Jowar (Sorghum),1093000,1030000,6.12,183310,214630,-14.59
+2021,Uttar Pradesh,Jowar (Sorghum),1093000,1093000,0,226630,183310,23.63
+2022,Uttar Pradesh,Jowar (Sorghum),1083000,1093000,-0.91,274570,226630,21.15
+2019,Andhra Pradesh,Millets (Combined),223000,210000,6.19,89640,100,89540
+2020,Andhra Pradesh,Millets (Combined),236000,223000,5.83,301942,89640,236.84
+2021,Andhra Pradesh,Millets (Combined),206000,236000,-12.71,514244,301942,70.31
+2022,Andhra Pradesh,Millets (Combined),152000,206000,-26.21,540544,514244,5.11
+2023,Andhra Pradesh,Millets (Combined),130000,152000,-14.47,359176,540544,-33.55
+2019,Arunachal Pradesh,Millets (Combined),26780,26800,-0.07,27362.88,27329.82,0.12
+2020,Arunachal Pradesh,Millets (Combined),26760,26780,-0.07,27395.94,27362.88,0.12
+2021,Arunachal Pradesh,Millets (Combined),26820,26760,0.22,27429,27395.94,0.12
+2022,Arunachal Pradesh,Millets (Combined),27120,26820,1.12,27624.6,27429,0.71
+2019,Assam,Millets (Combined),5210,5210,0,2886.34,2714.41,6.33
+2020,Assam,Millets (Combined),5210,5210,0,3058.27,2886.34,5.96
+2021,Assam,Millets (Combined),4970,5210,-4.61,3230.2,3058.27,5.62
+2022,Assam,Millets (Combined),4820,4970,-3.02,3260.32,3230.2,0.93
+2023,Assam,Millets (Combined),5000,4820,3.73,3200.48,3260.32,-1.84
+2019,Bihar,Millets (Combined),16030,23460,-31.67,20768.42,27157.93,-23.53
+2020,Bihar,Millets (Combined),8600,16030,-46.35,14378.91,20768.42,-30.77
+2021,Bihar,Millets (Combined),10390,8600,20.81,7989.4,14378.91,-44.44
+2022,Bihar,Millets (Combined),8480,10390,-18.38,10306.88,7989.4,29.01
+2023,Bihar,Millets (Combined),7150,8480,-15.68,8496.96,10306.88,-17.56
+2019,Chhattisgarh,Millets (Combined),97480,122960,-20.72,42904.16,52080.24,-17.62
+2020,Chhattisgarh,Millets (Combined),72000,97480,-26.14,33728.08,42904.16,-21.39
+2021,Chhattisgarh,Millets (Combined),92200,72000,28.06,24552,33728.08,-27.21
+2022,Chhattisgarh,Millets (Combined),56880,92200,-38.31,26184.8,24552,6.65
+2023,Chhattisgarh,Millets (Combined),47580,56880,-16.35,28155.6,26184.8,7.53
+2019,Dadra and Nagar Haveli,Millets (Combined),1200,1490,-19.46,1601.12,1651.84,-3.07
+2020,Dadra and Nagar Haveli,Millets (Combined),910,1200,-24.17,1550.4,1601.12,-3.17
+2021,Dadra and Nagar Haveli,Millets (Combined),850,910,-6.59,1499.68,1550.4,-3.27
+2022,Dadra and Nagar Haveli,Millets (Combined),850,850,0,1399.95,1499.68,-6.65
+2019,Daman and Diu,Millets (Combined),500,670,-25.37,930.07,1210.14,-23.14
+2020,Daman and Diu,Millets (Combined),330,500,-34,650,930.07,-30.11
+2021,Daman and Diu,Millets (Combined),500,330,51.52,369.93,650,-43.09
+2022,Daman and Diu,Millets (Combined),500,500,0,750,369.93,102.74
+2019,Delhi,Millets (Combined),4640,4650,-0.22,6342.44,6393.04,-0.79
+2020,Delhi,Millets (Combined),4630,4640,-0.22,6291.84,6342.44,-0.8
+2021,Delhi,Millets (Combined),4280,4630,-7.56,6241.24,6291.84,-0.8
+2022,Delhi,Millets (Combined),4260,4280,-0.47,8149.12,6241.24,30.57
+2019,Gujarat,Millets (Combined),480370,464670,3.38,1009608.89,1019087.44,-0.93
+2020,Gujarat,Millets (Combined),496070,480370,3.27,1000130.34,1009608.89,-0.94
+2021,Gujarat,Millets (Combined),520260,496070,4.88,990651.79,1000130.34,-0.95
+2022,Gujarat,Millets (Combined),510480,520260,-1.88,1092025.74,990651.79,10.23
+2023,Gujarat,Millets (Combined),516480,510480,1.18,1179208.8,1092025.74,7.98
+2019,Haryana,Millets (Combined),465000,407300,14.17,764604,629433,21.48
+2020,Haryana,Millets (Combined),522700,465000,12.41,899775,764604,17.68
+2021,Haryana,Millets (Combined),600480,522700,14.88,1034946,899775,15.02
+2022,Haryana,Millets (Combined),506490,600480,-15.65,1366692.48,1034946,32.05
+2023,Haryana,Millets (Combined),553090,506490,9.2,1132005.15,1366692.48,-17.17
+2019,Himachal Pradesh,Millets (Combined),6820,6560,3.96,5069.48,4198.74,20.74
+2020,Himachal Pradesh,Millets (Combined),7080,6820,3.81,5940.22,5069.48,17.18
+2021,Himachal Pradesh,Millets (Combined),3530,7080,-50.14,6810.96,5940.22,14.66
+2022,Himachal Pradesh,Millets (Combined),3380,3530,-4.25,3131.11,6810.96,-54.03
+2023,Himachal Pradesh,Millets (Combined),3280,3380,-2.96,2501.2,3131.11,-20.12
+2019,Jammu and Kashmir,Millets (Combined),29350,41000,-28.41,24759.4,34227.45,-27.66
+2020,Jammu and Kashmir,Millets (Combined),17700,29350,-39.69,15291.35,24759.4,-38.24
+2021,Jammu and Kashmir,Millets (Combined),21250,17700,20.06,5823.3,15291.35,-61.92
+2022,Jammu and Kashmir,Millets (Combined),10820,21250,-49.08,8606.25,5823.3,47.79
+2019,Jharkhand,Millets (Combined),16210,15750,2.92,11244.1,9714.72,15.74
+2020,Jharkhand,Millets (Combined),16670,16210,2.84,12773.48,11244.1,13.6
+2021,Jharkhand,Millets (Combined),20770,16670,24.6,14302.86,12773.48,11.97
+2022,Jharkhand,Millets (Combined),20730,20770,-0.19,17716.81,14302.86,23.87
+2023,Jharkhand,Millets (Combined),39870,20730,92.33,18076.56,17716.81,2.03
+2019,Karnataka,Millets (Combined),1673710,1508820,10.93,969179.26,175941.89,450.85
+2020,Karnataka,Millets (Combined),1838600,1673710,9.85,1762416.63,969179.26,81.85
+2021,Karnataka,Millets (Combined),1783000,1838600,-3.02,2555654,1762416.63,45.01
+2022,Karnataka,Millets (Combined),1638000,1783000,-8.13,2569303,2555654,0.53
+2023,Karnataka,Millets (Combined),1599000,1638000,-2.38,2054052,2569303,-20.05
+2019,Kerala,Millets (Combined),480,400,20,400,330.08,21.18
+2020,Kerala,Millets (Combined),560,480,16.67,469.92,400,17.48
+2021,Kerala,Millets (Combined),510,560,-8.93,539.84,469.92,14.88
+2022,Kerala,Millets (Combined),390,510,-23.53,570.18,539.84,5.62
+2023,Kerala,Millets (Combined),180,390,-53.85,599.82,570.18,5.2
+2019,Madhya Pradesh,Millets (Combined),491000,494110,-0.63,807021.96,762649.92,5.82
+2020,Madhya Pradesh,Millets (Combined),487890,491000,-0.63,851394,807021.96,5.5
+2021,Madhya Pradesh,Millets (Combined),517000,487890,5.97,895766.04,851394,5.21
+2022,Madhya Pradesh,Millets (Combined),555000,517000,7.35,1024177,895766.04,14.34
+2023,Madhya Pradesh,Millets (Combined),613000,555000,10.45,1181595,1024177,15.37
+2019,Maharashtra,Millets (Combined),2368100,1649640,43.55,208940.68,100,208840.68
+2020,Maharashtra,Millets (Combined),3086560,2368100,30.34,1319031.7,208940.68,531.29
+2021,Maharashtra,Millets (Combined),2885000,3086560,-6.53,2429122.72,1319031.7,84.16
+2022,Maharashtra,Millets (Combined),2456900,2885000,-14.84,2512835,2429122.72,3.45
+2023,Maharashtra,Millets (Combined),2034500,2456900,-17.19,2304572.2,2512835,-8.29
+2019,Meghalaya,Millets (Combined),2900,2910,-0.34,2761.51,2782.52,-0.76
+2020,Meghalaya,Millets (Combined),2890,2900,-0.34,2740.5,2761.51,-0.76
+2021,Meghalaya,Millets (Combined),2890,2890,0,2719.49,2740.5,-0.77
+2022,Meghalaya,Millets (Combined),2920,2890,1.04,2719.49,2719.49,0
+2019,Nagaland,Millets (Combined),10160,10150,0.1,11286.8,11275.68,0.1
+2020,Nagaland,Millets (Combined),10170,10160,0.1,11297.92,11286.8,0.1
+2021,Nagaland,Millets (Combined),10170,10170,0,11309.04,11297.92,0.1
+2022,Nagaland,Millets (Combined),8670,10170,-14.75,11309.04,11309.04,0
+2019,Odisha,Millets (Combined),78790,81140,-2.9,48200.62,48260.55,-0.12
+2020,Odisha,Millets (Combined),76440,78790,-2.98,48140.69,48200.62,-0.12
+2021,Odisha,Millets (Combined),83330,76440,9.01,48080.76,48140.69,-0.12
+2022,Odisha,Millets (Combined),101050,83330,21.26,55164.46,48080.76,14.73
+2023,Odisha,Millets (Combined),93860,101050,-7.12,68107.7,55164.46,23.46
+2019,Puducherry,Millets (Combined),120,100,20,139.98,100,39.98
+2020,Puducherry,Millets (Combined),180,120,50,279.96,139.98,100
+2021,Puducherry,Millets (Combined),120,180,-33.33,419.94,279.96,50
+2022,Puducherry,Millets (Combined),80,120,-33.33,290.04,419.94,-30.93
+2019,Punjab,Millets (Combined),1100,1700,-35.29,1121,1521.5,-26.32
+2020,Punjab,Millets (Combined),500,1100,-54.55,720.5,1121,-35.73
+2021,Punjab,Millets (Combined),400,500,-20,320,720.5,-55.59
+2022,Punjab,Millets (Combined),1200,400,200,260,320,-18.75
+2023,Punjab,Millets (Combined),600,1200,-50,759.6,260,192.15
+2019,Rajasthan,Millets (Combined),4755020,4569910,4.05,3430440.62,2571853.2,33.38
+2020,Rajasthan,Millets (Combined),4940130,4755020,3.89,4289028.04,3430440.62,25.03
+2021,Rajasthan,Millets (Combined),4914590,4940130,-0.52,5147615.46,4289028.04,20.02
+2022,Rajasthan,Millets (Combined),4362780,4914590,-11.23,5155404.91,5147615.46,0.15
+2023,Rajasthan,Millets (Combined),5187750,4362780,18.91,4279887.18,5155404.91,-16.98
+2019,Sikkim,Millets (Combined),2110,1940,8.76,1990.34,1801.05,10.51
+2020,Sikkim,Millets (Combined),2280,2110,8.06,2179.63,1990.34,9.51
+2021,Sikkim,Millets (Combined),2050,2280,-10.09,2368.92,2179.63,8.68
+2022,Sikkim,Millets (Combined),2040,2050,-0.49,2129.95,2368.92,-10.09
+2019,Tamil Nadu,Millets (Combined),533580,439280,21.47,729775.32,586080.18,24.52
+2020,Tamil Nadu,Millets (Combined),627880,533580,17.67,873470.46,729775.32,19.69
+2021,Tamil Nadu,Millets (Combined),580220,627880,-7.59,1017165.6,873470.46,16.45
+2022,Tamil Nadu,Millets (Combined),554610,580220,-4.41,905143.2,1017165.6,-11.01
+2023,Tamil Nadu,Millets (Combined),497040,554610,-10.38,765361.8,905143.2,-15.44
+2019,Telangana,Millets (Combined),65000,30000,116.67,5360,100,5260
+2020,Telangana,Millets (Combined),100000,65000,53.85,72280,5360,1248.51
+2021,Telangana,Millets (Combined),102000,100000,2,139200,72280,92.58
+2022,Telangana,Millets (Combined),74000,102000,-27.45,166362,139200,19.51
+2023,Telangana,Millets (Combined),69700,74000,-5.81,122766,166362,-26.21
+2019,Tripura,Millets (Combined),1540,1740,-11.49,1379.26,1518.82,-9.19
+2020,Tripura,Millets (Combined),1340,1540,-12.99,1239.7,1379.26,-10.12
+2021,Tripura,Millets (Combined),1810,1340,35.07,1100.14,1239.7,-11.26
+2022,Tripura,Millets (Combined),1640,1810,-9.39,1460.67,1100.14,32.77
+2019,Uttar Pradesh,Millets (Combined),1030000,967000,6.51,1762809,1558318,13.12
+2020,Uttar Pradesh,Millets (Combined),1093000,1030000,6.12,1967300,1762809,11.6
+2021,Uttar Pradesh,Millets (Combined),1093000,1093000,0,2171791,1967300,10.39
+2022,Uttar Pradesh,Millets (Combined),1083000,1093000,-0.91,2298579,2171791,5.84
+2023,Uttar Pradesh,Millets (Combined),1100000,1083000,1.57,2225565,2298579,-3.18
+2019,Uttarakhand,Millets (Combined),148000,159000,-6.92,168229,156786,7.3
+2020,Uttarakhand,Millets (Combined),137000,148000,-7.43,179672,168229,6.8
+2021,Uttarakhand,Millets (Combined),138000,137000,0.73,191115,179672,6.37
+2022,Uttarakhand,Millets (Combined),133000,138000,-3.62,200790,191115,5.06
+2023,Uttarakhand,Millets (Combined),121000,133000,-9.02,200431,200790,-0.18
+2019,West Bengal,Millets (Combined),8820,8440,4.5,5361.68,3120.52,71.82
+2020,West Bengal,Millets (Combined),9200,8820,4.31,7602.84,5361.68,41.8
+2021,West Bengal,Millets (Combined),7050,9200,-23.37,9844,7602.84,29.48
+2022,West Bengal,Millets (Combined),6880,7050,-2.41,6979.5,9844,-29.1
+2023,West Bengal,Millets (Combined),7060,6880,2.62,7740,6979.5,10.9
